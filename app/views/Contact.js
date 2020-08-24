@@ -94,10 +94,10 @@ const Contact = () => {
             onMouseEnter={() => setIsActive(false)}
             onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
           >
-            <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
-              <span>{message}</span>
-              <span>@mldangelo.com</span>
+            <a href="mailto:richardzhu@college.harvard.edu">
+              <span>richardzhu@college.harvard.edu</span>
             </a>
+            <span>, or call me at (952)-567-0108</span>
           </div>
         </div>
         <ul className="icons">

@@ -8,8 +8,8 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">About this site</Link></h2>
-          <p>A beautiful, responsive, react app written with modern Javascript.</p>
+          <h2><Link to="/">About</Link></h2>
+          <p>A personal website written in React and modern Javascript.</p>
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
@@ -19,7 +19,7 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p> Source available <a href="https://github.com/richardzhu64/personal-site">here</a>.</p>
     </article>
   </Main>
 );
