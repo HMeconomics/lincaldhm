@@ -1,56 +1,39 @@
 
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
+I am a rising junior at Harvard University studying <a href="https://www.seas.harvard.edu/applied-mathematics">Applied Math</a> with a focus in Economics and Computer Science with a secondary in Government. My interests range from journalism to data science, building web apps to sports modeling and betting, public policy to finance - if there's a problem that require rigorous and creative solutions, I'm fascinated!
+
 <br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+I am interested in a variety of roles in investment, data science, software engineering and product management. I am particularly interested in social impact, education, public policy, and consumer-facing products. If you'd like to set up some time to chat, my email is <a href="mailto:richardzhu@college.harvard.edu">richardzhu@college.harvard.edu</a>
+ and phone number is (952)-567-0108.
 <br><br>
+
 #### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+**Due to COVID-19 and its effect on the college experience, I am currently taking a gap year to explore my interests outside of school**. As such, I'm actively searching for new, exciting experiences to expand my horizons and am interested in working at fast-paced, dynamic companies in the tech and finance space. However, I would also love to gain experience working formally in areas that I'm passionate about in my free time - in sports, journalism, movies, and creative writing. If you have experience or opportunities in any of these areas, I would love to learn more about it - anything from a quick chat to a full-time role.
 <br><br>
+
 #### Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- My parents are both software engineers, but I wasn't able to use our home desktop computer until I was 5. I think it was because I didn't want to be like my parents. My first (and most consistent) usage
+of the computer was to use our Zhu siblings' [Webkinz](https://www.webkinz.com/) account!
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- At 6, I discovered how to use Microsoft PowerPoint to create hyperlinks to other slides, and created a choose-your-own adventure game for a school project about volcanoes.
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- At 7, my parents bought me and my siblings a Nintendo DS for Christmas with the Pokemon Diamond game. My siblings and I accidentally blew our chance to get the legendary Pokemon Dialga because we listened to Team Galactic's warnings that Dialga was "too powerful".
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+- At 12, I discovered Clash of Clans, my first (and only) video game. I played the game for 5 years, and built up my village before selling it for $300. The game taught me patience, strategy, but most importantly the joy of building things progressively over time.
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- At 13, I was a founding member of my high school's Public Forum debate team. It was the best decision I made in high school - it taught me how to think critically, research rigorously, speak confidently, and lead by example. Over five years, I grew from placing last at tournaments as a freshman to being ranked as a top 5 team in the country as a senior. I'm still involved in debate through Harvard's [parliamentary debate team](https://www.hcdu.org/) and coach my high school team (shoutout Edina Debate!).
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+- At 15 I wrote my first "Hello World!" in AP Computer Science class, and my journey with coding began!
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
-
-You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
 #### I like
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils (Faber-Castell Polychromos)
+- [Movies](https://letterboxd.com/rsz64/films/)
+- Hiking and Camping
+- Professional Sports (*avid* (and tortured) Minnesota sports fan)
+- Ping Pong
+- Card Games
 - Podcasts ([Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
 
 #### Travel / Geography
 

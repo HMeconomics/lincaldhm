@@ -21,10 +21,8 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Richard. I am a junior at Harvard University studying <a href="https://www.seas.harvard.edu/applied-mathematics">Applied Math</a> with a focus
-        in Economics and Computer Science with a secondary in Government. My interests range from journalism to data science,
-        building web apps to sports modeling, public policy to finance - if there's a problem that require
-        rigorous and creative solutions, I'm fascinated!
-        <br></br>
+        in Economics and Computer Science with a secondary in Government. 
+        <br/><br/>
         I have experience working in software development and research internships at <a href="https://www.minneapolisfed.org/">The Federal Reserve Bank of Minneapolis</a>, <a href="https://www.vimblygroup.com/">Vimbly Group</a>, and <a href="https://socialscience.fas.harvard.edu/BLISS"> Harvard's BLISS Summer Research Program</a>.
 
       </p>
