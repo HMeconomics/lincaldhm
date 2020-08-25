@@ -9,7 +9,7 @@
     "lint": "eslint app server test webpack",
     "test": "mocha --exit --require @babel/register ./test/test.js",
     "dev": "nodemon server/server.js --ignore app/ --ignore test/ --exec babel-node",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && cp -r public/* build/",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
