@@ -3,7 +3,7 @@
 
 const skills = [{
   title: 'Javascript',
-  competency: 4,
+  competency: 3,
   category: ['Web Development', 'Languages', 'Javascript'],
 },
 {
@@ -13,22 +13,28 @@ const skills = [{
 },
 {
   title: 'React',
-  competency: 3,
+  competency: 4,
   category: ['Web Development', 'Javascript'],
 },
 {
-  title: 'Bash',
-  competency: 2,
-  category: ['Tools', 'Languages'],
+  title: 'Sequelize',
+  competency: 4,
+  category: ['Web Development', 'Databases', 'Javascript'],
 },
 {
+  title: 'Bash',
+  competency: 3,
+  category: ['Tools', 'Languages'],
+},
+/*
+{
   title: 'Amazon Web Services',
-  competency: 4,
+  competency: 1,
   category: ['Web Development', 'Tools'],
 },
 {
   title: 'Heroku',
-  competency: 2,
+  competency: 1,
   category: ['Web Development', 'Tools'],
 },
 {
@@ -41,19 +47,22 @@ const skills = [{
   competency: 2,
   category: ['Web Development', 'Databases'],
 },
+*/
 {
   title: 'PostgreSQL/SQLite3/SQL',
-  competency: 4,
+  competency: 2,
   category: ['Web Development', 'Databases', 'Languages'],
 },
+/*
 {
   title: 'Redis',
   competency: 3,
   category: ['Web Development', 'Databases'],
 },
+*/
 {
   title: 'Data Mining',
-  competency: 3,
+  competency: 2,
   category: ['Data Science'],
 },
 {
@@ -63,7 +72,7 @@ const skills = [{
 },
 {
   title: 'D3',
-  competency: 2,
+  competency: 3,
   category: ['Web Development', 'Javascript'],
 },
 {
@@ -72,25 +81,34 @@ const skills = [{
   category: ['Web Development', 'Python'],
 },
 {
-  title: 'Git/Mercurial',
+  title: 'Git',
   competency: 3,
   category: ['Tools'],
 },
+/*
 {
   title: 'Kubernetes',
   competency: 2,
   category: ['Tools', 'Data Engineering'],
 },
+
 {
   title: 'Google Cloud Compute',
   competency: 2,
   category: ['Tools', 'Web Development'],
 },
+*/
 {
   title: 'Numpy',
-  competency: 3,
+  competency: 4,
   category: ['Data Science', 'Data Engineering', 'Python'],
 },
+{
+  title: 'PyTorch',
+  competency: 2,
+  category: ['Data Science', 'Data Engineering', 'Python'],
+},
+/*
 {
   title: 'Numba',
   competency: 2,
@@ -101,6 +119,7 @@ const skills = [{
   competency: 3,
   category: ['Data Science', 'Python'],
 },
+*/
 {
   title: 'Jupyter',
   competency: 3,
@@ -108,7 +127,7 @@ const skills = [{
 },
 {
   title: 'Typescript',
-  competency: 2,
+  competency: 4,
   category: ['Web Development', 'Languages', 'Javascript'],
 },
 {
@@ -118,7 +137,7 @@ const skills = [{
 },
 {
   title: 'Python',
-  competency: 5,
+  competency: 4,
   category: ['Languages', 'Python'],
 },
 {
@@ -127,18 +146,8 @@ const skills = [{
   category: ['Languages'],
 },
 {
-  title: 'Julia',
-  competency: 2,
-  category: ['Languages'],
-},
-{
-  title: 'MATLAB',
-  competency: 2,
-  category: ['Languages'],
-},
-{
   title: 'R',
-  competency: 2,
+  competency: 4,
   category: ['Languages'],
 },
 {
@@ -147,20 +156,16 @@ const skills = [{
   category: ['Data Science', 'Javascript'],
 },
 {
-  title: 'GraphQL',
-  competency: 2,
-  category: ['Web Development', 'Databases'],
-},
-{
   title: 'Pandas',
-  competency: 5,
+  competency: 3,
   category: ['Data Engineering', 'Data Science', 'Python'],
 },
 {
   title: 'Matplotlib',
-  competency: 3,
+  competency: 2,
   category: ['Data Engineering', 'Data Science', 'Python'],
 },
+/*
 {
   title: 'Scikit-Learn',
   competency: 4,
@@ -191,6 +196,39 @@ const skills = [{
   competency: 4,
   category: ['Data Engineering', 'Python'],
 },
+*/
+
+// Office productivity
+{
+  title: 'Microsoft Office (Excel, Word, PowerPoint, SharePoint)',
+  competency: 3,
+  category: ['Office Tools'],
+},
+{
+  title: 'Google G-Suite (Drive, Docs, Sheets)',
+  competency: 4,
+  category: ['Office Tools'],
+},
+{
+  title: 'Google Colaboratory Notebooks',
+  competency: 3,
+  category: ['Data Science', 'Python']
+},
+{
+  title: 'Slack',
+  competency: 3,
+  category: ['Office Tools']
+},
+{
+  title: 'Trello',
+  competency: 3,
+  category: ['Office Tools']
+},
+{
+  title: 'Asana',
+  competency: 3,
+  category: ['Office Tools']
+},
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be == to the
@@ -207,6 +245,7 @@ const colors = [
   '#d75858',
   '#747fff',
   '#64cb7b',
+  '#'
 ];
 
 const categories = [...new Set(

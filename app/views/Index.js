@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Typing from 'react-typing-animation';
+
 
 import Main from '../layouts/Main';
 
@@ -8,7 +10,11 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">About</Link></h2>
+          <h2>
+            <Typing speed={50}>
+              Hi, I'm Richard. Welcome to my website.
+            </Typing>
+          </h2>
           <p>A personal website written in React and modern Javascript.</p>
         </div>
       </header>
@@ -16,7 +22,7 @@ const Index = () => (
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
+        view <Link to="/stats">personal statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
       <p> Source available <a href="https://github.com/richardzhu64/personal-site">here</a>.</p>

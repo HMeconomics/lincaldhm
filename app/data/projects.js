@@ -1,42 +1,38 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Oscars So Local?',
+    subtitle: 'GOV 1005 Final Project',
+    link: 'https://richard-zhu-64.shinyapps.io/Oscars_Local/',
+    source: 'https://github.com/richardzhu64/oscars-so-local',
+    image: '/images/projects/oscars_so_local.jpg',
+    date: '2020-04-20',
+    desc: 'Analysis of the Oscars and other film awards by geography and demographics over time.' +
+          'Data scraped from AMPAS, BAFTA, Cannes Wikipedia Tables and Kaggle open datasets. Built using R and Shiny.'
+    ,
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'HODP Student Wiki',
+    link: 'https://wiki.hodp.org',
+    image: '/images/projects/hodp_wiki.jpg',
+    date: '2020-02-01',
+    desc: 'Harvard Open Data Project intiative for student-driven wiki with information about Harvard classes, \
+           student organizations, housing, and student life.',
   }, {
-    title: 'Space Potato',
+    title: 'Harvard Athlete Hometowns',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    link: 'https://medium.com/harvard-open-data-project/mapping-the-hometowns-of-harvards-student-athletes-daf82fea501f',
+    source: "https://github.com/richardzhu64/HODPAthletes",
+    image: '/images/projects/harvard_athletes.jpg',
+    date: '2019-12-20',
+    desc: 'Data journalism article investigating Harvard student-athlete hometowns by sport, geography, and median income.'
   }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'DebateHarmony',
+    subtitle: 'A website to connect debaters with coaches, judges, and practice partners',
+    link: 'https://www.youtube.com/watch?v=ljO_3Y3H7FM',
+    source: 'https://github.com/richardzhu64/debate-harmony',
+    image: '/images/projects/debate_harmony.jpg',
+    date: '2018-12-06',
+    desc: 'Web app designed to help debaters find compatible evidence trades, judging, coaching, and practice debate partners. Built using Python, SQLite, Flask.',
   },
 ];
 

@@ -12,7 +12,7 @@ export default function Research({ data }) {
         <h4 className="abstract" onClick={() => setAbstract(!abstract)}>[Click to Show/Hide abstract]</h4>
         </header>
         {abstract && (
-            <p>{data.abstract}</p>
+            <p className="abstractText">{data.abstract}</p>
         )}
         <ul className="points">
             {data.points.map((point) => (
