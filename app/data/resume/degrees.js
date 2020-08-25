@@ -1,14 +1,18 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Harvard University',
+    degree: 'B.A. Applied Math (Economics & Computer Science) ',
+    gpa: "3.97 / 4.0",
+    honors: "Detur Book Prize Recipient (awarded to top academic first-year students), John Harvard Scholar",
+    link: 'https://www.harvard.edu/',
+    year: "Expected May 2023",
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Edina High School',
+    gpa: "4.34 / 4.0",
+    honors: "2018 Class Valedictorian (class of 667), National AP Scholar, National Merit Scholar, Siemens Research Competition Semifinalist",
+    degree: 'H.S. Diploma',
+    link: 'https://www.edinaschools.org/edinahighschool',
+    year: 2018,
   },
 ];
 

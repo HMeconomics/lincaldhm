@@ -25,7 +25,7 @@
 			margin-bottom: 2em;
 		}
 	}
-	.experience {
+	.experience, .activity {
 		.title {
 			text-align: center;
 		}
@@ -38,6 +38,18 @@
 	}
 
 	.jobs-container {
+		.link {
+			text-decoration: underline;
+		}
+		.abstract {
+			color: blue;
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+		h3 {
+			font-size: .8em;
+		}
 		.points {
 			li {
 				margin: 0;
@@ -91,13 +103,21 @@
 		margin-bottom: .1em;
 		text-transform: none;
 		letter-spacing: 0.16em;
-		font-size: .8em;
+		font-size: 1em;
 	}
 
 	.school {
 		text-transform: none;
 		padding-top: 0.3em;
+		margin-bottom: .5em;
+		font-size: 0.9em;
+	}
+
+	.gpa, .honors {
+		text-transform: none;
+		padding-top: 0.3em;
 		margin-bottom: 1em;
+		font-size: 0.8em;
 	}
 }
 

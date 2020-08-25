@@ -1,10 +1,23 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 import PropTypes from 'prop-types';
 import dayjs from 'dayjs';
 import url from 'url';
+import Slideshow from "./Slideshow";
 
-const Cell = ({ data }) => (
-  <div className="cell-container">
+
+export default function Cell({ data }) {
+  const [isClicked, setClicked] = useState(false);
+  const handleClose = () => setClicked(false);
+
+  return (
+  <>
+  <div className="cell-container" onClick={() => setClicked(true)}>
+    {/*<Slideshow
+        show={isClicked}
+        project={selectedProject}
+        handleClose={handleClose}
+      />
+    */}
     <article className="mini-post">
       <header>
         <h3><a href={data.link}>{data.title}</a></h3>
@@ -18,7 +31,9 @@ const Cell = ({ data }) => (
       </div>
     </article>
   </div>
-);
+  </>
+  );
+}
 
 Cell.propTypes = {
   data: PropTypes.shape({
@@ -29,5 +44,3 @@ Cell.propTypes = {
     desc: PropTypes.string.isRequired,
   }).isRequired,
 };
-
-export default Cell;

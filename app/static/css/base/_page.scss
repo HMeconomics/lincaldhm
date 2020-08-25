@@ -3,7 +3,7 @@
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
-
+$bg-img: url("/images/bg2.png");
 /* Basic */
 
 	// MSIE: Required for IEMobile.
@@ -25,9 +25,8 @@
 
 	body {
 		background-color: lightcyan;
-		background-image: url("../../../../public/images/bg2.png");
+		background-image: $bg-img;
 		//background: _palette(bg-alt);
-
 		// Prevents animation/transition "flicker" on page load.
 		// Automatically added/removed by js/main.js.
 			&.is-loading {

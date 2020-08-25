@@ -26,44 +26,17 @@ of the computer was to use our Zhu siblings' [Webkinz](https://www.webkinz.com/)
 
 - At 15 I wrote my first "Hello World!" in AP Computer Science class, and my journey with coding began!
 
-<br><br>
+<br>
+
 #### I like
 - [Movies](https://letterboxd.com/rsz64/films/)
 - Hiking and Camping
 - Professional Sports (*avid* (and tortured) Minnesota sports fan)
 - Ping Pong
 - Card Games
-- Podcasts ([Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-
-#### Travel / Geography
-
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I visited: Canada, England, France, and Switzerland. I plan to visit:  Norway.
-
-- I am an Oregon Trail II enthusiast.
-
-#### Fun facts
-
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on an [electric skateboard](https://boostedboards.com/vehicles/shortboards/boosted-mini-x), [onewheel](https://onewheel.com/products/xr), or [bicycle](https://www.citibikenyc.com/) every single day.
-- I added this page because so many people complained that my site was just a resume.
 
 #### I dream of
-
-- always finding inspiration.
+- always finding inspiration and fulfillment.
 - enabling a brighter future.
-- doing better.
-- no one checking my commit history for early drafts of this file.
+- always improving myself.
+- building something that lasts.

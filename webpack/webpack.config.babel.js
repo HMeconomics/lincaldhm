@@ -65,9 +65,9 @@ export default {
         loader: 'file-loader',
       },
       {
-        test: /\.(png|jpg|gif)$/,
+        test: /\.(png|jpg)$/,
         loader: 'url-loader'
-      },
+      }
     ],
   },
 };
